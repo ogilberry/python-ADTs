@@ -1,3 +1,6 @@
+"""A basic stack ADT for python, by Jordan Ogilvy"""
+
+
 class stack:
 	def __init__(self):
 		#create the empty stack by creating an empty list. Make it accessible only by accessor functions
